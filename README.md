@@ -168,6 +168,15 @@ Base URL:
 
 ---
 
+## API Documentation
+
+Swagger UI available at:
+
+http://localhost:8080/swagger-ui/index.html
+
+This allows testing all APIs directly from the browser.
+
+
 # 🧾 Expense APIs
 
 ## 1️⃣ Add Expense
